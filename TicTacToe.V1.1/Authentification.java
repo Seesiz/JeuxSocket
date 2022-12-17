@@ -8,7 +8,6 @@ public class Authentification extends javax.swing.JFrame {
      * Creates new form Authentification
      */
     public Authentification() {
-        com.formdev.flatlaf.FlatDarkLaf.install();
         initComponents();
         jLabel3.setVisible(false);
     }
